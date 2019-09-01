@@ -924,16 +924,6 @@ async def hoi(hello):
     if not hello.text[0].isalpha() and hello.text[0] not in ("/", "#", "@", "!"):
         await hello.edit(random.choice(HELLOSTR))
 			  
-@register(outgoing=True, pattern="^.kill$")
-async def killing (killed):
-    """ Dont Kill Too much -_-"""
-    if not killed.text[0].isalpha() and killed.text[0] not in ("/", "#", "@", "!"):
-        if await killed.get_reply_message():
-            await killed.edit(
-                "`Targeted User was Killed successfully 😈......`\n"
-		"#Sad_reacts_onli\n"
-            )
-			  
 @register(outgoing=True, pattern="^.bt$")
 async def bluetext(bte):
     """ Believe me, you will find this useful. """
