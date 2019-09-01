@@ -44,6 +44,8 @@ Please head to the wiki on instructions to setting it up!
 
 ### Credits:
 
+Big thanks to [shivam](https://t.me/shivamkchoudhary)
+
 This is a fork from Balajimastro's Telegram-Userbot with some feature kanged from Yasir's repo and AvinashReddy3108's repo.
 
 Thanks to the people who assisted Balajimastro throughout this project:
@@ -58,6 +60,7 @@ Thanks to the people who assisted Balajimastro throughout this project:
 * [SphericalKat](https://github.com/ATechnoHazard)
 * [nitamarcel](https://github.com/nitanmarcel)
 * [AvinashReddy3108](https://github.com/AvinashReddy3108)
+
 
 and many more people who aren't mentioned here.
 
