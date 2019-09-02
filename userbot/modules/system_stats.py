@@ -134,8 +134,8 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     if not alive.text[0].isalpha() and alive.text[0] not in ("/", "#", "@", "!"):
         await alive.edit(
-           "`Meh alive now gib moni for work😬 `\n\n"
-            f"`Owned by noob` @devpatel_73 `sur `\n"
+           "`mar gaye hume maarne waale`\n\n"
+            f"`hum to abhi bhi waise hi h`\n"
             )
 
 
